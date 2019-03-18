@@ -25,6 +25,7 @@ The framework includes programs covering:
 * [Data Protection Policy](data-protection-policy.md)
 * [Database Limits](database-limits.md)
 * Incident Responses
+* [Logging and Monitoring](logging-monitoring-policy.md)
 * Operations Security
 * [People Security](people-security.md)
 * Physical Security
